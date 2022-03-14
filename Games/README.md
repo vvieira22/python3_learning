@@ -16,7 +16,7 @@ words to be included in the word bank "lista_palavras.txt".
 number of possible errors.
 </pre>
 
-### Versão em Português:
+## Versão em Português:
 >Esse é um diretório de jogos, alguns jogos dependem de arquivos ".txt" para o correto
 funcionamento, como por exemplo o jogo de adivinhação que gera palavras que estão
 dentro do arquivo "lista_palavras.txt".
