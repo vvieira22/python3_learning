@@ -1,0 +1,3 @@
+19/03/2022: Início do releaseNotes e criação da pasta Objeto, que tem arquivos que demonstram os principais conceitos
+de herança/polimorfismo de classes em python 3. 
+20/03/2022: Arquivos com exemplos de Herança múltipla, 
