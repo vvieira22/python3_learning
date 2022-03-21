@@ -1,3 +1,5 @@
 19/03/2022: Início do releaseNotes e criação da pasta Objeto, que tem arquivos que demonstram os principais conceitos
 de herança/polimorfismo de classes em python 3. 
-20/03/2022: Arquivos com exemplos de Herança múltipla, 
+20/03/2022: Finalização do conteúdo sobre a classe que demonstra orientação a objeto, que fala de Duck Typing, Mixin, 
+métodos únicos que não precisam passar como herança o objeto inteiro. E por fim, inserção do arquivo que mostra um 
+exemplo sobre herança múltipla.
