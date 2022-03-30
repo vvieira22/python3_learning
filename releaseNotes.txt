@@ -6,3 +6,5 @@ exemplo sobre herança múltipla.
 21/03/2022: Arquivo de conteúdo sobre Datas adicionado, onde é falado sobre como manipular datas em python.
 23/03/2022: Conteúdo sobre extração de strings iniciado, e pasta 30 dias de python adicionada, onde
 cada dia novos conteúdos são aprendidos juntos com exercícios sobre python 3.
+29/03/2022: Finalização sobre conteúdo de extração de strings de "url", onde foi aprendido sobre fatiamento,
+encontrar substring e padrões numa string.
