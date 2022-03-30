@@ -8,3 +8,5 @@ exemplo sobre herança múltipla.
 cada dia novos conteúdos são aprendidos juntos com exercícios sobre python 3.
 29/03/2022: Finalização sobre conteúdo de extração de strings de "url", onde foi aprendido sobre fatiamento,
 encontrar substring e padrões numa string.
+30/03/2022: Arquivo sobre como criar endPoints criado, com exemplo simples de utilização de uma api que retorna
+um json baseado no cep passado pela url.
