@@ -10,3 +10,4 @@ cada dia novos conteúdos são aprendidos juntos com exercícios sobre python 3.
 encontrar substring e padrões numa string.
 30/03/2022: Arquivo sobre como criar endPoints criado, com exemplo simples de utilização de uma api que retorna
 um json baseado no cep passado pela url.
+01/04/2022: Dia 05 inserido na pasta 30DiasDePython, onde foi abordado sobre o tema de listas com alguns exemplos de sua utilização.
