@@ -5,8 +5,8 @@
 Objetivos:
 
 - [x] Adicionar QR no banco
-- [ ] Excluir registros no banco
-- [ ] Atualizar registros no banco
+- [x] Excluir registros no banco
+- [x] Atualizar registros no banco
 - [ ] Janela inicial
 - [ ] Gerar QR dentro da janela Inicial
 - [ ] Salvar QR como imagem externamente
