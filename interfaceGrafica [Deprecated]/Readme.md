@@ -4,7 +4,7 @@
 </p>
 
 ### English:
-### This project is currently deprecated, it has been moved and updated to another repository, you can [find it by this link.](https://www.google.com)
+### This project is currently deprecated, it has been moved and updated to another repository, you can [find it by this link.](https://github.com/vvieira22/gerador_qr)
 
 ### Português:
-### Esse projeto atualmente está defazado, o mesmo foi movido e atualizado para um outro repositório, você pode [localiza-lo por esse link.](https://www.google.com)
+### Esse projeto atualmente está defazado, o mesmo foi movido e atualizado para um outro repositório, você pode [localiza-lo por esse link.](https://github.com/vvieira22/gerador_qr)
