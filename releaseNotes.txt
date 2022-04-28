@@ -11,3 +11,6 @@ encontrar substring e padrões numa string.
 30/03/2022: Arquivo sobre como criar endPoints criado, com exemplo simples de utilização de uma api que retorna
 um json baseado no cep passado pela url.
 01/04/2022: Dia 05 inserido na pasta 30DiasDePython, onde foi abordado sobre o tema de listas com alguns exemplos de sua utilização.
+05/04/2022: Início do aprendizado de interface Gráfica em Python utilizando tkinter.
+28/04/2022: Projeto de interface gráfica se tornou maior que esperado e foi movido para um outro repositório, porém
+o código feito até a data da transferência foi mantido para possíveis consultas.
