@@ -16,3 +16,4 @@ um json baseado no cep passado pela url.
 o código feito até a data da transferência foi mantido para possíveis consultas.
 01/06/2022: Exemplos de ordenação e igualdade entre objetos, além de alguns exemplos isolados do uso de enumarate e de 
 ordenação básica.
+14/06/2022: Estudo de Scraping baseado no livro "Web Scraping com python", rodando exemplos em um jupyter notebook.
