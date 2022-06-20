@@ -19,3 +19,4 @@ ordenação básica.
 14/06/2022: Estudo de Scraping baseado no livro "Web Scraping com python", rodando exemplos em um jupyter notebook.
 14/06/2022: Estudo sobre novo tipo de dado, set, que seria o conjunto.
 17/06/2022: Exemplos isolados sobre uso de dict.
+20/06/2022: Formatação de dados brasileiros incluida, onde foi abordado a validação de CPF.
